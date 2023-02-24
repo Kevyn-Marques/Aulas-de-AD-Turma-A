@@ -1,0 +1,21 @@
+1.Os Elementos básicos do design se referem a conceitos que serão seguidos em basicamemte todo tipo de projeto,sendo esses:
+
+Linha:uma forma que conecta dois ou mais pontos 
+
+Tamanho:
+
+Forma:Forma é qualquer área bidimensional com um limite reconhecível,ou seja,triângulos,circulos,quadardos e etc
+
+Cor:É a representação das cores na imagem 
+
+Textura:É a qualidade física de uma superficie e assim como nos objetos,podem tridimensionais e dar uma ideia de como é na vida real 
+
+Equilibrio:É uma boa distribuição do peso visual e pode ser afetado por muitas coisas,incluindo cor,tamanho,número e espaço em branco.
+
+
+2.Ela se baseia na composição visual da imagem,fazendo uso dos pontos de foco para tornar a imagem algo agaradavel ao olhar,os elementos importantes dentro do quadro devem ser colocados nos pontos de interseção.
+
+
+3.Comnposição visual é a disposição apresentada na imagem,como ela está composta,isso inclui os elementos principais,fundo,elementos secundarios,entre outros elementos como luz,sombra e enfim,sem ser muito redundante,é o que compoe uma imagem 
+
+4.A obra "Crianças e coração" do pintor Romero Britto,é uma arte abstrata e apresenta ,muitos elementos fundamentais,ela segue a composição de forma com que sua centralização é feita de forma eficiente,apresneta inumeras formas naturias,suas cores vibrantes passam o sentimento acolhedor e animador,em meio a tons vivos de vermelho,laranja,azul e etc
